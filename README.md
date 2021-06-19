@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Metrics](https://metrics.lecoq.io/amaaniqbal?template=classic&config.timezone=Asia%2FCalcutta)
+I am a passionate Full Stack Developer and a Machine Learning Enthusiast having a deep interest in designing Algorithms which solves real-world problems. Find more about me at [https://www.amaaniqbal.com](https://www.amaaniqbal.com).
+
+![Metrics](https://metrics.lecoq.io/amaaniqbal?template=classic&isocalendar=1&languages=1&lines=1&introduction=1&notable=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=15&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&notable.repositories=false&pagespeed.url=www.amaaniqbal.com&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
 
 <!--
 **amaaniqbal/amaaniqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
