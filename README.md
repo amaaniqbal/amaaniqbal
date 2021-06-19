@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Metrics](https://metrics.lecoq.io/amaaniqbal?template=classic&config.timezone=Asia%2FCalcutta)
 
 <!--
 **amaaniqbal/amaaniqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
