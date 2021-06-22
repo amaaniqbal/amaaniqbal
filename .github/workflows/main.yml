@@ -35,5 +35,6 @@ jobs:
           plugin_notable: yes
           plugin_pagespeed: yes
           plugin_pagespeed_url: .user.website
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_API_TOKEN }}
           repositories: 500
           repositories_forks: yes
