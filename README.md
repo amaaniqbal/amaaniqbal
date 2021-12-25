@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a passionate Full Stack Developer and a Machine Learning Enthusiast having a deep interest in designing Algorithms that solves real-world problems. Find more about me at [https://www.amaaniqbal.com](https://www.amaaniqbal.com).
+I am a passionate Full Stack Engineer having a deep interest in designing Algorithms that solves real-world problems. Find more about me at [https://www.amaaniqbal.com](https://www.amaaniqbal.com).
 
 ![Metrics](https://github.com/amaaniqbal/amaaniqbal/blob/main/github-metrics.svg)
 
