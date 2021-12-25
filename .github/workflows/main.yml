@@ -31,7 +31,7 @@ jobs:
           plugin_lines: yes
           plugin_notable: yes
           plugin_pagespeed: yes
-          plugin_pagespeed_url: https://www.amaaniqbal.com/
+          plugin_pagespeed_url: .user.website
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_API_TOKEN }}
           repositories: 500
           repositories_forks: yes
